@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.hexcell.ichi" version="0.1a" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ichi</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        IchiNichiIkkai is an app to help people explore the beauty of the japanese language.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="ichi@hexcell.cc" href="http://ichi.hexcell.cc">
+        Hexcell Community
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
